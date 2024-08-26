@@ -25,6 +25,7 @@ Control for much longer.
                 <p  className="hole">Affilates</p>
                  
             </div>
+            <div className="lop">
             <div className="c3">
                 <h1 className="poll">More</h1>
                 <p className="hole">Airline/FAQ's</p>
@@ -39,12 +40,15 @@ Control for much longer.
                     <img className="sc" src="Background.png" />
 
                 </div>
+                 <div className="whole">
                 <p className="hole">Discover our App</p>
                 <div className="playstore">
                     <img className="ps" src="Google Play.png"></img>
                     <img className="ps" src="Play Store.png" />
                 </div>
             </div>
+    </div>
+    </div>
          
         </div>
     );
