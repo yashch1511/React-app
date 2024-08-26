@@ -12,7 +12,7 @@ function Test(){
 
 
             </div>
-
+             <div className="card2">
             <div className="right">
                 <img className="round" src="Image.png"></img>
                 <p className="tt">“On the Windows talking painted pasture yet its express parties use. Sure last upon he same as knew next. Of believed or diverted no.”</p>
@@ -23,6 +23,7 @@ function Test(){
             <div className="bottom">
                 <p className="pm">Chris Thomas</p>
                 <p className="cm">CEO of Red Button</p>
+        </div>
             </div>
         </div>
     );
